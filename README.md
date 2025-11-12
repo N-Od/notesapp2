@@ -25,3 +25,5 @@ Click Add Note to save it.
 Your note appears below in a rounded green-outlined box.
 
 Click Delete to remove a note.
+
+View at https://beautiful-sfogliatella-d00e79.netlify.app/
